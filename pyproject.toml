@@ -11,4 +11,6 @@ dependencies = [
     "networkx>=3.6.1",
     "pandas>=3.0.1",
     "scikit-learn>=1.8.0",
+    "torch>=2.11.0",
+    "torch-geometric>=2.7.0",
 ]
